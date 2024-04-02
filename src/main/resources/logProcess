@@ -1,0 +1,122 @@
+2024-04-02T22:01:49.847+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 13528 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:01:49.848+07:00 DEBUG 13528 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:01:49.849+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:01:49.880+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02T22:01:49.880+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02T22:01:50.612+07:00  WARN 13528 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:01:50.846+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:01:50.854+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:01:50.855+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:01:50.883+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:01:50.883+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1002 ms
+2024-04-02T22:01:51.394+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:01:51.401+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:01:51.455+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:01:51.467+07:00  INFO 13528 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 1.914 seconds (process running for 2.414)
+2024-04-02T22:01:51.895+07:00  INFO 13528 --- [demoRestAPI_2] [RMI TCP Connection(1)-192.168.204.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-02T22:01:51.895+07:00  INFO 13528 --- [demoRestAPI_2] [RMI TCP Connection(1)-192.168.204.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-02T22:01:51.896+07:00  INFO 13528 --- [demoRestAPI_2] [RMI TCP Connection(1)-192.168.204.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-02T22:01:51.896+07:00  INFO 13528 --- [demoRestAPI_2] [RMI TCP Connection(2)-192.168.204.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-04-02T22:01:52.017+07:00  INFO 13528 --- [demoRestAPI_2] [RMI TCP Connection(2)-192.168.204.1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1e2e440b
+2024-04-02T22:01:52.021+07:00  INFO 13528 --- [demoRestAPI_2] [RMI TCP Connection(2)-192.168.204.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-04-02T22:02:40.846+07:00  INFO 13528 --- [demoRestAPI_2] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-04-02T22:02:40.849+07:00  INFO 13528 --- [demoRestAPI_2] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-04-02T22:02:42.783+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 3428 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:02:42.784+07:00 DEBUG 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:02:42.784+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:02:42.813+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02T22:02:42.813+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02T22:02:43.631+07:00  WARN 3428 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:02:43.910+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:02:43.917+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:02:43.917+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:02:43.945+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:02:43.945+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1131 ms
+2024-04-02T22:02:44.453+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:02:44.460+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:02:44.512+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:02:44.523+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 2.053 seconds (process running for 2.628)
+2024-04-02T22:02:44.910+07:00  INFO 3428 --- [demoRestAPI_2] [RMI TCP Connection(4)-192.168.204.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-02T22:02:44.910+07:00  INFO 3428 --- [demoRestAPI_2] [RMI TCP Connection(4)-192.168.204.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-02T22:02:44.911+07:00  INFO 3428 --- [demoRestAPI_2] [RMI TCP Connection(4)-192.168.204.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-02T22:02:44.911+07:00  INFO 3428 --- [demoRestAPI_2] [RMI TCP Connection(3)-192.168.204.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-04-02T22:02:45.016+07:00  INFO 3428 --- [demoRestAPI_2] [RMI TCP Connection(3)-192.168.204.1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@673b4986
+2024-04-02T22:02:45.019+07:00  INFO 3428 --- [demoRestAPI_2] [RMI TCP Connection(3)-192.168.204.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-04-02T22:02:50.942+07:00  INFO 3428 --- [demoRestAPI_2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T22:02:50.952+07:00  INFO 3428 --- [demoRestAPI_2] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-04-02T22:02:50.955+07:00  INFO 3428 --- [demoRestAPI_2] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-04-02T22:02:51.033+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 3428 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:02:51.034+07:00 DEBUG 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:02:51.034+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:02:51.274+07:00  WARN 3428 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:02:51.316+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:02:51.317+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:02:51.317+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:02:51.332+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:02:51.332+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 296 ms
+2024-04-02T22:02:51.496+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:02:51.498+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:02:51.513+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:02:51.518+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 0.508 seconds (process running for 9.623)
+2024-04-02T22:02:51.520+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T22:29:28.924+07:00  INFO 3428 --- [demoRestAPI_2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T22:29:28.996+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 3428 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:29:28.996+07:00 DEBUG 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:29:28.996+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:29:29.186+07:00  WARN 3428 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:29:29.224+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:29:29.225+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:29:29.226+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:29:29.236+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:29:29.236+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 238 ms
+2024-04-02T22:29:29.406+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:29:29.408+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:29:29.426+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:29:29.430+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 0.457 seconds (process running for 1607.535)
+2024-04-02T22:29:29.431+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T22:30:06.163+07:00  INFO 3428 --- [demoRestAPI_2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-04-02T22:30:06.218+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 3428 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:30:06.219+07:00 DEBUG 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:30:06.219+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:30:06.374+07:00  WARN 3428 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:30:06.408+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:30:06.408+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:30:06.408+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:30:06.421+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:30:06.421+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 201 ms
+2024-04-02T22:30:06.571+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:30:06.573+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:30:06.588+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:30:06.594+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 0.391 seconds (process running for 1644.7)
+2024-04-02T22:30:06.596+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T22:31:45.019+07:00  INFO 3428 --- [demoRestAPI_2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T22:31:45.082+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 3428 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:31:45.082+07:00 DEBUG 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:31:45.082+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:31:45.234+07:00  WARN 3428 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:31:45.265+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:31:45.266+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:31:45.266+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:31:45.275+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:31:45.275+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 192 ms
+2024-04-02T22:31:45.380+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:31:45.382+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:31:45.394+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:31:45.397+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 0.332 seconds (process running for 1743.503)
+2024-04-02T22:31:45.398+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T22:31:54.902+07:00  INFO 3428 --- [demoRestAPI_2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T22:31:54.942+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Starting DemoRestApi2Application using Java 21.0.2 with PID 3428 (D:\KSHDR\Basic\Spring\Test\demoRestAPI_2\target\classes started by ASUS ROG in D:\KSHDR\Basic\Spring\Test\demoRestAPI_2)
+2024-04-02T22:31:54.942+07:00 DEBUG 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-02T22:31:54.942+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T22:31:55.102+07:00  WARN 3428 --- [demoRestAPI_2] [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[org.example.demorestapi2]' package. Please check your configuration.
+2024-04-02T22:31:55.134+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-04-02T22:31:55.134+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T22:31:55.134+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T22:31:55.143+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T22:31:55.143+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 200 ms
+2024-04-02T22:31:55.247+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T22:31:55.249+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-02T22:31:55.260+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-04-02T22:31:55.264+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] o.e.d.DemoRestApi2Application            : Started DemoRestApi2Application in 0.336 seconds (process running for 1753.37)
+2024-04-02T22:31:55.265+07:00  INFO 3428 --- [demoRestAPI_2] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T22:31:57.683+07:00  INFO 3428 --- [demoRestAPI_2] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
